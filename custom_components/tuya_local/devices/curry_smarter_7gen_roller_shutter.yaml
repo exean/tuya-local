@@ -25,7 +25,8 @@ entities:
         range:
           min: 0
           max: 100
-        invert: true
+        mapping:
+          - invert: true
 
   # === Sensoren ===
   - entity: sensor
