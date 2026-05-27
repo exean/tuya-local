@@ -961,6 +961,7 @@ of device.
 - CC curtain controller 1
 - CST WB V1 cover switch with backlight
 - Curry Smarter 6-Gen roller shutter switch
+- Curry Smarter 7-Gen roller shutter switch
 - Dongguan garage door
 - Dongguan LY1678-2 curtain robot
 - Dooya curtain motor
